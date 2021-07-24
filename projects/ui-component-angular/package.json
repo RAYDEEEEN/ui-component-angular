@@ -1,0 +1,19 @@
+{
+  "name": "@raydeeeen/ui-component-angular",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^12.1.0-",
+    "@angular/core": "^12.1.0-",
+    "@raydeeeen/ui-component": "^0.0.4"
+  },
+  "dependencies": {
+    "tslib": "^2.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/@raydeeeen/ui-component-angular.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
